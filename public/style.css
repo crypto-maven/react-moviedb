@@ -4,9 +4,6 @@ html {
 
 * {
 	box-sizing: border-box;
-}
-
-body {
 	margin: 0;
 	padding: 0;
 	background-color: rgb(244, 244, 244);
@@ -29,4 +26,5 @@ small {
 
 title {
 	font-size: 4.4rem;
+	text-align: center;
 }
